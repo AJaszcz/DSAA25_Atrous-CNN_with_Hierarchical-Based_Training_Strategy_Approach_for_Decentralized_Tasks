@@ -3,7 +3,7 @@
   - [Antoni Jaszcz](https://orcid.org/0000-0002-8997-0331)
   - [Agnieszka Polowczyk](https://orcid.org/0009-0008-1583-4493)
   - [Alicja Polowczyk](https://orcid.org/0009-0001-3110-8255)
-  - Katarzyna WIltos
+  - [Katarzyna Wiltos](https://orcid.org/0009-0001-6148-6257)
   - [Dawid Połap](https://orcid.org/0000-0003-1972-5979)
   - [Marcin Woźniak](https://orcid.org/0000-0002-9073-5347)
 
